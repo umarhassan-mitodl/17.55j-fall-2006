@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the readings for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -523,14 +521,14 @@ Police Reform in Mexico City
 
 Recent articles on police reform in Mexico. On-line sources on police reform in Mexico. See:
 
-*   [Project on Reforming the Administration of Justice in Mexico](http://www.seguridadpublicaenmexico.org.mx/)
+*   {{% resource_link "661a0976-9c0c-4076-81fe-9de1e57aa745" "Project on Reforming the Administration of Justice in Mexico" %}}
 *   Human Rights First. "Mexico Policing Project."
-*   [Center for U. S.-Mexican Studies University of California, San Diego, International Orgnaizations Links](http://usmex.ucsd.edu/research/)
-*   Varenik, Robert O. "[Exploring Roads to Police Reform: Six Recommendations](http://repositories.cdlib.org/usmex/prajm/varenik/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-15.
-*   Arroyo, Mario. "[Evaluando la 'Estrategía Giuliani': la Política de Cero Tolerancia en el Distrito Federal](http://repositories.cdlib.org/usmex/prajm/arroyo/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_, (May 15, 2003): 1-18.
-*   Antonio Carrillo Maza, Marco. "[La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California](http://repositories.cdlib.org/usmex/prajm/carrillo/)." _Center for U.S.-Mexican Studies_. _Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-16.
-*   Chapter 3 in "Democratizing the Police Abroad: What to Do and How to Do It." pp. 17-32 ([PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
-*   Reames, Benjamin. "[Police Forces in Mexico: A Profile](http://repositories.cdlib.org/usmex/prajm/reames/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-11.
+*   {{% resource_link "cf15b7e0-48c4-45a9-89f8-2eb5215b0b73" "Center for U. S.-Mexican Studies University of California, San Diego, International Orgnaizations Links" %}}
+*   Varenik, Robert O. "{{% resource_link "f03b55aa-86e8-40be-aa22-3ddc20c8eed6" "Exploring Roads to Police Reform: Six Recommendations" %}}." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-15.
+*   Arroyo, Mario. "{{% resource_link "85af2428-e13b-4bb7-a8fb-0c0743036902" "Evaluando la 'Estrategía Giuliani': la Política de Cero Tolerancia en el Distrito Federal" %}}." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_, (May 15, 2003): 1-18.
+*   Antonio Carrillo Maza, Marco. "{{% resource_link "71cf4be3-29b0-4d50-9c47-c0cca6dc4d7b" "La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California" %}}." _Center for U.S.-Mexican Studies_. _Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-16.
+*   Chapter 3 in "Democratizing the Police Abroad: What to Do and How to Do It." pp. 17-32 ({{% resource_link "6e58533c-8fff-49c3-8536-08a303fa9622" "PDF" %}})
+*   Reames, Benjamin. "{{% resource_link "a314dce1-cca2-4218-9561-e894b4063fdb" "Police Forces in Mexico: A Profile" %}}." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-11.
 
 
 {{< tdclose >}}

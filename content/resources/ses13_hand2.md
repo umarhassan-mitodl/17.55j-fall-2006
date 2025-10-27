@@ -4,8 +4,6 @@ description: Lecture handout.
 file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/d0883b9013f3c15f52b086a493a4b467_ses13_hand2.pdf
 file_size: 16039
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

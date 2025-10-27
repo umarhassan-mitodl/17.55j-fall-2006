@@ -4,8 +4,6 @@ description: Lecture presentation.
 file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/ecd01a5d15edf917a6dc85fe69895d11_ses13_ba_s.pdf
 file_size: 20560
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

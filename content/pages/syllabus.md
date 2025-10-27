@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the syllabus for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -74,7 +72,7 @@ Finally, at the end of the semester during the official exam period, there will 
 How to Hand in Papers
 ---------------------
 
-For stylistic and substantive advice on writing your papers, see the hints attached to this syllabus. Guidance for formatting can be found at [Online MIT writing and Communication Centre](http://web.mit.edu/writing/NEW/).
+For stylistic and substantive advice on writing your papers, see the hints attached to this syllabus. Guidance for formatting can be found at {{% resource_link "65fac308-bd5c-4fdb-9c5e-05bac50741d0" "Online MIT writing and Communication Centre" %}}.
 
 Papers that are late will be penalized by one-third of a letter grade for each day late.
 

@@ -4,8 +4,6 @@ description: Final exam questions.
 file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/ec16fc51fcd277f7bb722b0fd8bc8398_final_exam.pdf
 file_size: 37456
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

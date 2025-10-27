@@ -4,8 +4,6 @@ description: List of items for the geography test.
 file: /courses/17-55j-introduction-to-latin-american-studies-fall-2006/3cd3ca3151587fe4f2d70616321703af_map_test.pdf
 file_size: 13890
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
